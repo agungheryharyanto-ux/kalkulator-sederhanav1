@@ -2,7 +2,7 @@
 
 Kalkulator web sederhana dalam satu berkas HTML — tanpa dependensi, tanpa proses build.
 
-## Cara pakai
+## instruction
 
 Buka `index.html` langsung di browser, atau jalankan server statis:
 
